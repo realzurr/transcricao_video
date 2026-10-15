@@ -1,0 +1,43 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configuração local
+.env
+.env.*
+!.env.example
+
+# Arquivos e pastas geradas
+videos/
+output/
+output_video/
+converted/
+media/
+*.mp3
+*.mp4
+*.wav
+*.mkv
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.pdf
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
